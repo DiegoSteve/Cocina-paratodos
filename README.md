@@ -23,13 +23,13 @@ Asegúrate de tener instalado y configurado Docker antes de comenzar.
 1. Clonar el repositorio en la máquina local:
    
    ```sh
-   git clone https://github.com/francerz/node-restful.git
+   https://github.com/DiegoSteve/Cocina-paratodos
    ```
 
 2. Navegar al directorio del proyecto:
    
    ```sh
-   cd node-restful
+   cd Cocina-paratodos
    ```
 
 3. Ejecutar el siguiente comando para iniciar los contenedores:
