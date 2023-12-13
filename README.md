@@ -55,3 +55,13 @@ consulta la [documentación detallada](./docs/README.md).
 
 - [Node.js](https://www.nodejs.org)
 - [Docker](https://www.docker.com)
+
+## Descripcion del Proyecto
+
+El proyecto consiste en desarrollar una aplicación web o sitio web que atienda las necesidades de dos tipos de usuarios: el usuario común y el usuario vendedor. El usuario común puede registrarse, explorar el sitio y acceder a servicios. Por otro lado, el usuario vendedor también puede registrarse como usuario común, pero tiene la capacidad adicional de ofrecer sus productos a la venta.
+
+La motivación detrás de este proyecto es abordar la problemática de aquellas personas que se quedan en casa, especialmente amas de casa, que buscan generar ingresos mediante la venta de alimentos caseros. Estos vendedores podrían dar de alta comidas sencillas y económicas en la plataforma.
+
+La audiencia principal son jóvenes estudiantes, incluyendo estudiantes foráneos, que pueden explorar la aplicación para encontrar vendedores cercanos mediante la geolocalización. Esto les permitiría adquirir comidas a precios razonables, al tiempo que apoyan a las mujeres que se quedan en casa al proporcionarles una fuente de ingresos.
+
+En resumen, el proyecto busca crear una plataforma que conecte a vendedores de alimentos caseros con consumidores, facilitando transacciones locales, promoviendo la economía entre la comunidad y ofreciendo una opción conveniente para aquellos que desean adquirir comidas caseras a precios accesibles.
